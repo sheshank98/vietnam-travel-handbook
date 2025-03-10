@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietnam Travel Handbook</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; }
+        h1, h2, h3 { color: #2E8B57; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 10px; }
+        .phrase { font-weight: bold; }
+        .map { width: 100%; height: auto; }
+    </style>
+</head>
+<body>
+    <h1>Vietnam Travel Handbook</h1>
+
+    <h2>Maps</h2>
+    <h3>Hanoi City Map</h3>
+    <img src="https://example.com/hanoi-map.jpg" alt="Hanoi City Map" class="map">
+    <h3>Ha Long Bay Map</h3>
+    <img src="https://example.com/halong-bay-map.jpg" alt="Ha Long Bay Map" class="map">
+    <h3>Ninh Binh Map</h3>
+    <img src="https://example.com/ninh-binh-map.jpg" alt="Ninh Binh Map" class="map">
+
+    <h2>Attraction Descriptions</h2>
+    <h3>Hanoi</h3>
+    <ul>
+        <li><strong>Ho Chi Minh Mausoleum:</strong> The final resting place of Vietnam's revolutionary leader.</li>
+        <li><strong>One Pillar Pagoda:</strong> A historic Buddhist temple built in 1049.</li>
+        <li><strong>Temple of Literature:</strong> Vietnam's first national university, dedicated to Confucius.</li>
+    </ul>
+    <h3>Ha Long Bay</h3>
+    <ul>
+        <li><strong>Limestone Karsts:</strong> Towering limestone formations rising from emerald waters.</li>
+        <li><strong>Surprise Cave (Sung Sot Cave):</strong> One of the largest and most beautiful caves in the bay.</li>
+        <li><strong>Titov Island:</strong> Offers panoramic views after a short hike.</li>
+    </ul>
+    <h3>Ninh Binh</h3>
+    <ul>
+        <li><strong>Hoa Lu Ancient Capital:</strong> The capital of Vietnam in the 10th and 11th centuries.</li>
+        <li><strong>Tam Coc:</strong> Known as "Ha Long Bay on land" with scenic boat rides through rice paddies.</li>
+        <li><strong>Bich Dong Pagoda:</strong> A series of pagodas built into a mountainside.</li>
+    </ul>
+
+    <h2>Essential Vietnamese Phrases</h2>
+    <ul>
+        <li><span class="phrase">Hello:</span> Xin chào (sin chow)</li>
+        <li><span class="phrase">Thank you:</span> Cảm ơn (gahm un)</li>
+        <li><span class="phrase">Yes:</span> Vâng (vuhng)</li>
+        <li><span class="phrase">No:</span> Không (kohng)</li>
+        <li><span class="phrase">How much is this?:</span> Cái này bao nhiêu tiền? (guy nye baow nyew tee-un?)</li>
+        <li><span class="phrase">Where is the restroom?:</span> Nhà vệ sinh ở đâu? (nya vay
+::contentReference[oaicite:39]{index=39}
+ 
